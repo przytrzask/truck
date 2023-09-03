@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "SuperBit": "github:YahboomTechnology/SuperBit#a1aa3ca033143a070d67f7005b71fbe6f279402a",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
